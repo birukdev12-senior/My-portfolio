@@ -19,4 +19,4 @@ This is a professional and responsive personal portfolio website built to showca
 ## 👤 Contact
 * **Name:** Biruk Tsegaye
 * **LinkedIn:** [linkedin.com/in/biruk-tsegaye](https://linkedin.com/in/biruk-tsegaye-6a217b3b7)
-* **GitHub:** [@btsegaye012-crypto](https://github.com/btsegaye012-crypto)
+* **GitHub:** [@birukdev12-senior](https://github.com/birukdev12-senior)
